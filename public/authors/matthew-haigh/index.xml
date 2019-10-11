@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Haigh | Andrew Stewart</title>
+    <link>/authors/matthew-haigh/</link>
+      <atom:link href="/authors/matthew-haigh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Haigh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Matthew Haigh</title>
+      <link>/authors/matthew-haigh/</link>
+    </image>
+    
+    <item>
+      <title>Affective theory of mind inferences contextually influence the recognition of emotional facial expressions.</title>
+      <link>/publication/journal-article/paper1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An eye-tracking examination of readers&#39; sensitivity to pragmatic scope information during the processing of conditional inducements.</title>
+      <link>/publication/journal-article/paper4/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“It’s hard to write a good article.” The online comprehension of excuses as indirect replies.</title>
+      <link>/publication/journal-article/paper3/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

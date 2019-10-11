@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Andrew Stewart</title>
+    <link>/categories/r/</link>
+      <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>R</title>
+      <link>/categories/r/</link>
+    </image>
+    
+    <item>
+      <title>Binder Workshop on Reproducibility at SIPS, July 7th-9th, 2019</title>
+      <link>/post/post1/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/post1/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.improvingpsych.org/SIPS2019&#34; target=&#34;_blank&#34;&gt;Society for the Improvement of Psychological Science&lt;/a&gt; held their fourth annual meeting in Rotterdam earlier this summer.  This is the first time that the Society has met outside the U.S.A. and the first time that many European-based early career researchers have had the opportunity to attend.  As a reflection of the level of interest, registration for the conference reached capacity well in advance of the closing of the early-bird registration rate.  In response to this, the organizers booked an additional neighboring venue to allow 17 sessions to run in parallel.  The sessions consisted of Hackathons, Workshops, Unconferences, and Lightning Talks with a huge variety of topics including sessions on teaching reproducibility in the classroom, promoting diversity within the Psychological Open Research community, data management and documentation, and how to develop your own workflow for reproducible research.  The total number of people registered ended up being just over 500, most of whom were early career researchers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/post/sips.png&#34; alt=&#34;drawing&#34; width=&#34;300&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;On the second day of the conference Oli Clark (from Manchester Metropolitan University) and I ran a 3 hour workshop on Reproducible Data Visualizations Using R and Binder.  The purpose of the workshop was to encourage the attendees to use Binder as a way of capturing their computational environments alongside their code and data to ensure full reproducibility of their research workflows.  The workshop was oversubscribed and ended up being standing room only!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ajstewartlang.github.io/images/andrew_sips.jpeg&#34; alt=&#34;drawing&#34; width=&#34;200&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;Following a 45 minute &lt;a href=&#34;https://ajstewartlang.github.io/SIPS_2019/SIPS_presentation.html&#34; target=&#34;_blank&#34;&gt;overview of data visualization, reproducibility, and Binder&lt;/a&gt;, attendees were tasked with reproducing the code for 6 different data visualizations based on a Tidy Tuesday dataset of SNCF train delay &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-02-26&#34; target=&#34;_blank&#34;&gt;data&lt;/a&gt;.  After each visualization, they then built a Binder to capture their data, code, and computational environment with links to the Binders added to a Hackmd &lt;a href=&#34;https://hackmd.io/@ajstewartlang/B1SHSZByS&#34; target=&#34;_blank&#34;&gt;document&lt;/a&gt;.  It was interesting seeing so many coding styles and approaches to reproducing code for the 6 different data visualization challenges.  People seemed to really like the idea of building Binders – and about a week or so after the workshop I was Tweeted @ by one of the attendees who had just Binderised the empirical work in her M.Sc. thesis and was submitting it alongside the thesis itself.&lt;/p&gt;
+
+&lt;p&gt;Nice to see such positive and immediate impact!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

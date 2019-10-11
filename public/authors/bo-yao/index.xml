@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Yao | Andrew Stewart</title>
+    <link>/authors/bo-yao/</link>
+      <atom:link href="/authors/bo-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Yao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Bo Yao</title>
+      <link>/authors/bo-yao/</link>
+    </image>
+    
+    <item>
+      <title>“It’s hard to write a good article.” The online comprehension of excuses as indirect replies.</title>
+      <link>/publication/journal-article/paper3/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/paper3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

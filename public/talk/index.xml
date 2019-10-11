@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks and Workshops | Andrew Stewart</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks and Workshops</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Oct 2019 12:06:19 +0100</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Talks and Workshops</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>MSci Reproducible Data Science Unit</title>
+      <link>/talk/msci-data-science/</link>
+      <pubDate>Fri, 04 Oct 2019 12:06:19 +0100</pubDate>
+      <guid>/talk/msci-data-science/</guid>
+      <description>&lt;p&gt;In November and December 2019 I will be delivering my new MSci unit in Reproducible
+Data Science. This unit covers everthing from the basics of data visualisation
+and data wrangling in R, through to the general linear model, mixed models, and
+how to engage in fully reproducible research by using tools such as Binder to
+capture your computational environemnt alongside your data and code. The
+materials for the six workshops that make up this unit can be found here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ajstewartlang/MSci_Reproducible_Data_Science&#34; target=&#34;_blank&#34;&gt;https://github.com/ajstewartlang/MSci_Reproducible_Data_Science&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you scroll to the bottom of the page, you can even launch the unit in your
+browser using Binder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Mining and Twitter Scraping in R</title>
+      <link>/talk/text-mining/</link>
+      <pubDate>Thu, 19 Sep 2019 11:30:00 +0000</pubDate>
+      <guid>/talk/text-mining/</guid>
+      <description>&lt;p&gt;You can scroll through the slides below using your arrow keys or mouse.&lt;/p&gt;
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://ajstewartlang.github.io/Chester_text_mining_talk/Chester_talk#1&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keele R Workshop</title>
+      <link>/talk/keele_r/</link>
+      <pubDate>Mon, 09 Sep 2019 10:00:00 +0000</pubDate>
+      <guid>/talk/keele_r/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Welcome&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this workshop we&amp;rsquo;ll cover the motivation behind engaging in reproducible research methods, the basics of R, data wrangling, and data visualisation. In the afternoon we&amp;rsquo;ll look at some standard statistical methods using the general linear model.&lt;/p&gt;
+
+&lt;p&gt;We will finish off by looking at how you can use Binder and GitHub to engage in fully reproducible research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Before the Workshop - Installing R and RStudio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You will probably want to bring a laptop for this course.  Beforehand, you should install R (the language) and RStudio (the interface that helps us interact with R) - each is available for OSX, Windows, and various flavours of Unix. You can install R from here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.stats.bris.ac.uk/R/&#34; target=&#34;_blank&#34;&gt;https://www.stats.bris.ac.uk/R/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And RStudio from here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/#download&#34; target=&#34;_blank&#34;&gt;https://www.rstudio.com/products/rstudio/download/#download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Course Material&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can download all the slides, R scripts, R Markdown scripts, and datasets that I will use in the workshop by clicking on the &amp;ldquo;Clone or download&amp;rdquo; buton on my GitHub repo and then selecting &amp;ldquo;Download ZIP&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/ajstewartlang/Keele_Sept_2019&#34; target=&#34;_blank&#34;&gt;https://github.com/ajstewartlang/Keele_Sept_2019&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ajstewartlang/Keele_Sept_2019/blob/master/icon.png?raw=true&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Here you&amp;rsquo;ll find separate Morning and Afternoon folders.  The Morning and Afternoon folders contain the slides, R and R Markdown scripts, and the data I use in the slides. Additionally, you&amp;rsquo;ll also find a &lt;em&gt;Cheat Sheets and Handy Guides&lt;/em&gt; folder which contains a number of helpful reference resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Worksheets&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can view the first worksheet here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ajstewartlang.github.io/Keele_2019/worksheets/worksheet1.html&#34; target=&#34;_blank&#34;&gt;http://ajstewartlang.github.io/Keele_2019/worksheets/worksheet1.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And the second worksheet here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ajstewartlang.github.io/Keele_2019/worksheets/worksheet2.html&#34; target=&#34;_blank&#34;&gt;http://ajstewartlang.github.io/Keele_2019/worksheets/worksheet2.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Online R Resources&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Below are some helpful R resources - it would be useful to look at the first one before the workshop.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Online introductory guide to R, RStudio, and R Markdown.
+This is a very clear and focused introduction to R, RStudio, and R Markdown.  You probably want to read the first four chapters sooner rather than later&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://rbasics.netlify.com&#34; target=&#34;_blank&#34;&gt;http://rbasics.netlify.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;R for Data Science online book - Garrett Grolemund and Hadley Wickham
+This is the online interactive version of the book of the same name.  It focuses more on the data science side of things than on statistics per se, and is very useful (especially in terms of data wrangling).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;http://r4ds.had.co.nz&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;R Graphics Cookbook
+The following &lt;em&gt;cookbook&lt;/em&gt; contains lots of useful examples of graphing using the ggplot2 package in R.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cookbook-r.com/Graphs/&#34; target=&#34;_blank&#34;&gt;http://www.cookbook-r.com/Graphs/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions in advance of the course, feel free to drop me an email (Andrew.Stewart@manchester.ac.uk)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Data Visualizations Using R and Binder</title>
+      <link>/talk/sips/</link>
+      <pubDate>Sun, 07 Jul 2019 11:30:00 +0000</pubDate>
+      <guid>/talk/sips/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    You can scroll through the slides below using your arrow keys or mouse and download the workshop GitHub repository from &lt;a href=&#34;https://github.com/ajstewartlang/SIPS_presentation&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://ajstewartlang.github.io/SIPS_2019/SIPS_presentation.html&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

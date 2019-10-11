@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Andrew Stewart</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am an experimental psychologist and data scientist at the University of Manchester interested in experimental pragmatics, open science, and reproducible research. My current research projects include how people understand data visualisations, how readers understand meaning that is implied by a linguistic utterance (rather than that which is conveyed explicitly), the mechanisms by which conditional information is processed and mentally represented, and (more generally) how meaning is integrated across sentences. My research involves the use of eye-tracking to examine moment-by-moment processing.&lt;/p&gt;
+
+&lt;p&gt;I teach data science and statistical methods to students in Psychology and Biological Sciences with an emphasis on R and reproducibility.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Astrid Schepman</title>
+      <link>/authors/astrid-schepman/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/astrid-schepman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Williams</title>
+      <link>/authors/emily-williams/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/emily-williams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ezgi M. Yüksel</title>
+      <link>/authors/ezgi-m.-yuksel/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ezgi-m.-yuksel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luke Jones</title>
+      <link>/authors/luke-jones/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/luke-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew Haigh</title>
+      <link>/authors/matthew-haigh/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/matthew-haigh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rhian McHugh</title>
+      <link>/authors/rhian-mchugh/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/rhian-mchugh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suzanne Stewart</title>
+      <link>/authors/suzanne-stewart/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/suzanne-stewart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Yao</title>
+      <link>/authors/bo-yao/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/bo-yao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth Le-luan</title>
+      <link>/authors/elizabeth-le-luan/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/elizabeth-le-luan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Wood</title>
+      <link>/authors/jeffrey-wood/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/jeffrey-wood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
